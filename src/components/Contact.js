@@ -48,7 +48,7 @@ function Contact() {
           rows="10"
           placeholder="Message"
         ></textarea>
-        <button className=" border-2 px-4 py-3 my-5 flex mx-auto items-center rounded-lg hover:bg-[#333333] hover:border-[#333333]">
+        <button className=" border-2 px-4 py-3 my-5 flex mx-auto items-center hover:text-orange-500 rounded-lg hover:bg-[#333333] hover:border-[#333333]">
           Submit
         </button>
       </form>

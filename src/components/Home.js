@@ -17,7 +17,7 @@ const Home = () => {
           responsive web applications.
         </p>
         <div>
-          <button className="text-gray-300 border-2 px-6 py-3  rounded-lg hover:bg-[#333333] hover:border-[#333333]">
+          <button className="text-gray-300 border-2 px-6 py-3 hover:text-orange-500  rounded-lg hover:bg-[#333333] hover:border-[#333333]">
             <Link to="work" smooth={true} duration={500}>
               View Work
             </Link>
